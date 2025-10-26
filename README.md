@@ -1,7 +1,6 @@
-cbdjsc hjvb n           bbbbbbbbbbbbbbbbbbbb- 👋 Hi, I’m @Anushka-186...................
-- 111111111111111111111111
-👀 I’m interested in Entrepreneurship
-- 🌱 I’m currently learning C Language
+👋 Hi, I’m @Anushka-186
+👀 I’m interested in Entrepreneurship and coding
+- 🌱 I’m currently learning C Language and Java
 - 💞️ I’m looking to collaborate on - LinkedIn
 - 📫 How to reach me- Mobile Number 
 - 😄 Pronouns: Consistent, handworking, deligiant
